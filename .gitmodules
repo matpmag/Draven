@@ -1,0 +1,33 @@
+[submodule "Draven-Zsh"]
+	path = Draven-Zsh
+	url = git@github.com:matpmag/Draven-Zsh.git
+[submodule "Draven-Vim"]
+	path = Draven-Vim
+	url = git@github.com:matpmag/Draven-Vim.git
+[submodule "Draven-Hyper"]
+	path = Draven-Hyper
+	url = git@github.com:matpmag/Draven-Hyper.git
+[submodule "Draven-VisualStudio"]
+	path = Draven-VisualStudio
+	url = git@github.com:matpmag/Draven-VisualStudio.git
+[submodule "Draven-VisualStudioCode"]
+	path = Draven-VisualStudioCode
+	url = git@github.com:matpmag/Draven-VisualStudioCode.git
+[submodule "Draven-JetBrains"]
+	path = Draven-JetBrains
+	url = git@github.com:matpmag/Draven-JetBrains.git
+[submodule "Draven-Slack"]
+	path = Draven-Slack
+	url = git@github.com:matpmag/Draven-Slack.git
+[submodule "Draven-XCode"]
+	path = Draven-XCode
+	url = git@github.com:matpmag/Draven-XCode.git
+[submodule "Draven-Atom"]
+	path = Draven-Atom
+	url = git@github.com:matpmag/Draven-Atom.git
+[submodule "Draven-Vivaldi"]
+	path = Draven-Vivaldi
+	url = git@github.com:matpmag/Draven-Vivaldi.git
+[submodule "Draven-Alfred"]
+	path = Draven-Alfred
+	url = git@github.com:matpmag/Draven-Alfred.git
